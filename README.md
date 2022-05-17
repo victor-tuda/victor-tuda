@@ -14,8 +14,8 @@
 <h3 align="left">Um pouco sobre mim:</h3>
 
 - 🌱 Atualmente estou aprendendo sobre Web Development.
-- 🖥️ Tenho bom conhecimento em: Python, Automações, Chat-Bots e Banco de Dados (SQL e NoSQL).
-- 💻 Tenho familiaridade com: Web Design, NodeJS, JS, C.
+- 🖥️ Tenho bom conhecimento em: Python, JAVA, C, Automações, Chat-Bots e Banco de Dados (SQL e NoSQL).
+- 💻 Tenho familiaridade com: Web Design, NodeJS, JS, BI.
 - 💼 Atualmente estou trabalhando como Freelancer.
 - 📫 Contato: **victor_gtuda@outlook.com**
 
