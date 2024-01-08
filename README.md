@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Eu me chamo Victor Tuda</h1>
-<h3 align="center">Estudante da FACENS - Sorocaba(SP)🌟.</h3>
+<h1 align="center">Victor Tuda</h1>
+<h3 align="center">FACENS - Sorocaba(SP).</h3>
 
 <br>
 
@@ -13,10 +13,8 @@
 
 <h3 align="left">Um pouco sobre mim:</h3>
 
-- 🌱 Atualmente estou aprendendo sobre Web Development.
-- 🖥️ Tenho bom conhecimento em: Python, JAVA, C, Automações, Banco de Dados (SQL e NoSQL), SCRUM.
-- 💻 Tenho familiaridade com: Web Design, NodeJS, JS, BI.
-- 💼 Atualmente estou trabalhando como Freelancer.
+- 💼 Atualmente estou trabalhando com Integração de Dados e IPaaS.
+- 🖥️ Tenho bom conhecimento em: Desenvolvimento de Software, Arquitetura de Banco de dados e Automação de Processos.
 - 📫 Contato: **victor_gtuda@outlook.com**
 
 <br>
@@ -26,9 +24,6 @@
   <a href="https://www.linkedin.com/in/victor-gon%C3%A7alves-tuda-28a892208" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="victor tuda" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/victortuda/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="victortuda" height="30" width="40" /></a>
 </p>
 
 <br>
